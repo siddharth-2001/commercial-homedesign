@@ -1,0 +1,116 @@
+.cont-btn {
+    background-color:rgb(124,179,66);
+    border-radius: 50px ;
+    
+}
+.cont-btn :hover {
+    background-color: rgb(85,139,47);
+    border-radius: 50px ;
+}
+.cont-btn a{
+    color: white !important;
+    letter-spacing: 1.5px;
+
+}
+.nav-item a {
+    font-family: 'Anton', sans-serif;
+}
+h1 {
+    font-family: 'Anton', sans-serif;
+    
+}
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+}
+
+.banner{
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner .slogan {
+    font-size: 120px;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Anton', sans-serif;
+}
+
+.features {
+    height: 380px;
+    background-color: rgb(249,251,231);
+    padding-top: 5px;
+    padding-right: 150px;
+    padding-left: 150px;
+    
+}
+.features .feature-head{
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.features .row {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.features .row .cont {
+    height: 200px;
+    background-color: white;
+    width: 200px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 30px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.showcase{
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px ;
+
+}
+
+.showcase .showcase-text {
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+}
+
+.services {
+    background-color: rgb(238,238,238);
+    padding-right: 250px;
+    padding-left: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px ;
+}
+
+.services .card-deck .card {
+    transition: transform 4.5s;
+
+}
+
+.services .card-deck .card :hover {
+    
+}
+
+.services .service-head {
+    margin-top: 30px; 
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+
+}
+
+.navbar {
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+    opacity: 95%;
+}
