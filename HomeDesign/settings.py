@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'pages',
     'phone_field',
+    'appointments',
 ]
 
 MIDDLEWARE = [
